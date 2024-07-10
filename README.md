@@ -1,1 +1,1 @@
-## AI Development and Prompt Engineering for SMKDEV Community
+### AI Development and Prompt Engineering for SMKDEV Community
